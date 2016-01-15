@@ -1,6 +1,6 @@
 # babel-preset-es2015-without-strict
 
-> Babel preset for all es2015 plugins except CommonJS.
+> Babel preset for all es2015 plugins without 'use strict' prepend.
 
 ## Install
 
