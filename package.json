@@ -1,6 +1,6 @@
 {
   "name": "babel-preset-es2015-without-strict",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Babel preset for all es2015 plugins without 'use strict' prepend",
   "author": "Fancy <fancyboynet@gmail.com>",
   "license": "MIT",
